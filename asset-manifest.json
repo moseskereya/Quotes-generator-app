@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Quotes-generator-app/static/css/main.60e50371.chunk.css",
+    "main.js": "/Quotes-generator-app/static/js/main.bdb1cb22.chunk.js",
+    "main.js.map": "/Quotes-generator-app/static/js/main.bdb1cb22.chunk.js.map",
+    "runtime-main.js": "/Quotes-generator-app/static/js/runtime-main.f50adf15.js",
+    "runtime-main.js.map": "/Quotes-generator-app/static/js/runtime-main.f50adf15.js.map",
+    "static/js/2.7b60ee13.chunk.js": "/Quotes-generator-app/static/js/2.7b60ee13.chunk.js",
+    "static/js/2.7b60ee13.chunk.js.map": "/Quotes-generator-app/static/js/2.7b60ee13.chunk.js.map",
+    "index.html": "/Quotes-generator-app/index.html",
+    "precache-manifest.9e6629c9c5027f5a4a7c076d44b0a666.js": "/Quotes-generator-app/precache-manifest.9e6629c9c5027f5a4a7c076d44b0a666.js",
+    "service-worker.js": "/Quotes-generator-app/service-worker.js",
+    "static/css/main.60e50371.chunk.css.map": "/Quotes-generator-app/static/css/main.60e50371.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f50adf15.js",
+    "static/js/2.7b60ee13.chunk.js",
+    "static/css/main.60e50371.chunk.css",
+    "static/js/main.bdb1cb22.chunk.js"
+  ]
+}
